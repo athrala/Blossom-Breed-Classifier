@@ -1,3 +1,5 @@
+
+
 # AI Programming with Python Nanodegree
 This repository contains my submissions for the nanodegree program [AI Programming with Python](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089) offered by [Udacity](https://www.udacity.com/).
 
@@ -8,6 +10,7 @@ Please note that the foundation of the code was provided by Udacity as a startin
 The first project dealt with using a given image classifier in order to identify dog breeds. The focus was not on training or building the classifier, but on demonstrating the necessary Python skills for setting up a machine learning project, i.e. dealing with the data, looking at different metrics, inspecting results and run times of different classifiers.
 
 ## Own Image Classifier
+![image](https://github.com/athrala/Blossom-Breed-Classifier/assets/110925591/15071351-9873-4f8f-b1bc-8c31b181dde4)
 
 The second project dealt with building an image classifier almost from scratch. Only the very basic foundation of the code was given (i.e. some helper functions and tips). My submission included:
 * reading and transforming the data
@@ -34,3 +37,5 @@ The first goal of the project was to implement the above described functionality
 1. Checkout this repository and navigate into `image_classifier_flowers/ImageClassifier`
 2. Run `python predict.py <path_to_image> <checkpoint>` (note that a valid checkpoint needs to be given)
 3. To see all the possible customizations, run `python predict.py --h`
+
+![image](https://github.com/athrala/Blossom-Breed-Classifier/assets/110925591/4bbc0b09-34fc-43df-99d2-76a756b13b50)
